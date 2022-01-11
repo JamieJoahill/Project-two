@@ -126,7 +126,7 @@ One of the main blockers in this project was the my games component, but after s
 
 ## Future features
 
-Include pagination on homepage, browse games and search games components .
+Include pagination on homepage, browse games and search games components.
 
 I wanted to include a feature that would count how many times the game was added to someone’s collection. I had done some digging online and came across countAPI (https://countapi.xyz). This API allows you to create simple numeric counters. IaaS, Integer as a Service.
 ## Key Learnings
